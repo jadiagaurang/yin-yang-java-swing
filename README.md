@@ -1,2 +1,2 @@
 # yin-yang-java-swing
-Yin Yang using Java Swing
+Draw Yin Yang using Java Swing
